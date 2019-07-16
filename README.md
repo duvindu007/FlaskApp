@@ -1,2 +1,2 @@
 # FlaskApp
-# simple application showing CRUD operations.
+ simple application showing CRUD operations.
